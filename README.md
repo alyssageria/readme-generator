@@ -4,7 +4,7 @@
 # README Generator
 
 ## Description
-The purpose and motivation behind this project was to create a README generator in which a series of questions is prompted to the user where they will provide an input that will be rendered to a README page.
+The purpose and motivation behind this project was to create a README generator in which a series of questions is prompted to the user where they will provide an input that will be rendered to a README page. 
 
 ## Table of Contents
 - [Installation](#installation)
@@ -17,6 +17,7 @@ In order to use this project you must have node.js, an npm as well as inquirer i
 
 ## Usage
 In order to start the README generator, you must go to the integrated terminal directly into the index.js file, and type in “node index.js”. You will be prompted a series of questions where you can input the proper information for the README.
+Here is a video demonstrating the use of this application: [Demonstration](https://drive.google.com/file/d/1jy3tC_dpTxgzq-Xs_g9UdHPkOTe3bmKF/view?usp=sharing)
 
 ## Contribution
 N/A
@@ -32,3 +33,5 @@ My github username is [alyssageria](https://github.com/alyssageria/).
 
 ## Email
 You can contact me at alyssageria@gmail.com.
+
+![screenshot](/utils/images/README-screenshot.png)

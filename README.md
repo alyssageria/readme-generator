@@ -17,7 +17,7 @@ In order to use this project you must have node.js, an npm as well as inquirer i
 
 ## Usage
 In order to start the README generator, you must go to the integrated terminal directly into the index.js file, and type in “node index.js”. You will be prompted a series of questions where you can input the proper information for the README.
-Here is a video demonstrating the use of this application: [Demonstration](https://drive.google.com/file/d/1jy3tC_dpTxgzq-Xs_g9UdHPkOTe3bmKF/view?usp=sharing)
+Here is a video demonstrating the use of this application: [Demonstration](https://drive.google.com/file/d/1Xow2VPUgEUE75mh8ElUj30Vwopc5rbJI/view?usp=sharing)
 
 ## Contribution
 N/A

@@ -79,11 +79,9 @@ ${data.tests}
 
 ${licenseSection}
 
-## Username
-My github username is [${data.username}](https://github.com/${data.username}/).
+## Questions
+If you have any questions my github username is [${data.username}](https://github.com/${data.username}/) and you can contact me at ${data.email}.
 
-## Email
-You can contact me at ${data.email}.
 `;
 }
 

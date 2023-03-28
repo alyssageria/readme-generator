@@ -28,10 +28,7 @@ N/A
 ## License
         This project is licensed under the MIT license.
 
-## Username
-My github username is [alyssageria](https://github.com/alyssageria/).
-
-## Email
-You can contact me at alyssageria@gmail.com.
+## Questions
+If you have any questions my github is [alyssageria](https://github.com/alyssageria/) and you can contact me at alyssageria@gmail.com.
 
 ![screenshot](/utils/images/README-screenshot.png)

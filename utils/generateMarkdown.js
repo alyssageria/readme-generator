@@ -74,6 +74,9 @@ ${data.usage}
 ## Contribution
 ${data.contribution}
 
+## Tests
+${data.tests}
+
 ${licenseSection}
 
 ## Username
